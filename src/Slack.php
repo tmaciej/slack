@@ -1,6 +1,4 @@
-<?php namespace tmaciej\Slack;
-
-use tmaciej\Slack\Client;
+<?php namespace tmaciej\SlackPHP;
 
 class Slack
 {

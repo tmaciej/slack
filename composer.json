@@ -1,5 +1,5 @@
 {
-    "name": "tmaciej/slack",
+    "name": "tmaciej/slackphp",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "tmaciej\\Slack\\": "src"
+            "tmaciej\\SlackPHP\\": "src"
         }
     },
     "extra": {

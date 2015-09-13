@@ -1,6 +1,6 @@
-<?php namespace tmaciej\Slack\Channels;
+<?php namespace tmaciej\SlackPHP\Channels;
 
-use tmaciej\Slack\Request;
+use tmaciej\SlackPHP\Request;
 
 class Finder
 {

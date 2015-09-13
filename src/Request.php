@@ -1,6 +1,6 @@
-<?php namespace tmaciej\slack;
+<?php namespace tmaciej\SlackPHP;
 
-use tmaciej\Slack\Slack;
+use tmaciej\SlackPHP\Slack;
 use GuzzleHttp\Client as GuzzleClient;
 
 class Request

@@ -1,7 +1,7 @@
-<?php namespace tmaciej\Slack\Chat;
+<?php namespace tmaciej\SlackPHP\Chat;
 
-use tmaciej\Slack\Request;
-use tmaciej\Slack\Channels\Finder;
+use tmaciej\SlackPHP\Request;
+use tmaciej\SlackPHP\Channels\Finder;
 
 class Message
 {
